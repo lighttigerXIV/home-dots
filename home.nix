@@ -11,7 +11,7 @@ in
   home.packages = [ ];
   home.file = {
     ".bashrc".source = "${dots-dir}/bash/.bashrc";
-    ".cargo".source = "${dots-dir}/cargo";
+    ".cargo/config.toml".source = "${dots-dir}/cargo/config.toml";
     ".config/fish/".source = "${dots-dir}/fish/";
     ".config/hypr/".source = "${dots-dir}/hyprland/";
     ".config/mako/".source = "${dots-dir}/mako/";
