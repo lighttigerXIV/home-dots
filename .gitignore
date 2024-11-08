@@ -38,3 +38,7 @@
 # Zed
 !.config/zed/
 !.config/zed/**
+
+# Home Manager
+!.config/home-manager/
+!.config/home-manager/**
