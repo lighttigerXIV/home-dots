@@ -1,2 +1,1 @@
-# nix-home
-My NixOS Config for Home Manager
+Ignore this. I am still learning nix XD
